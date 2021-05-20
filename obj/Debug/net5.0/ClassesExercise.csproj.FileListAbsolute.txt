@@ -1,0 +1,16 @@
+C:\Users\stavr\SwinUni\Programming\ClassesExercise\bin\Debug\net5.0\ClassesExercise.exe
+C:\Users\stavr\SwinUni\Programming\ClassesExercise\bin\Debug\net5.0\ClassesExercise.deps.json
+C:\Users\stavr\SwinUni\Programming\ClassesExercise\bin\Debug\net5.0\ClassesExercise.runtimeconfig.json
+C:\Users\stavr\SwinUni\Programming\ClassesExercise\bin\Debug\net5.0\ClassesExercise.runtimeconfig.dev.json
+C:\Users\stavr\SwinUni\Programming\ClassesExercise\bin\Debug\net5.0\ClassesExercise.dll
+C:\Users\stavr\SwinUni\Programming\ClassesExercise\bin\Debug\net5.0\ref\ClassesExercise.dll
+C:\Users\stavr\SwinUni\Programming\ClassesExercise\bin\Debug\net5.0\ClassesExercise.pdb
+C:\Users\stavr\SwinUni\Programming\ClassesExercise\obj\Debug\net5.0\ClassesExercise.csprojAssemblyReference.cache
+C:\Users\stavr\SwinUni\Programming\ClassesExercise\obj\Debug\net5.0\ClassesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stavr\SwinUni\Programming\ClassesExercise\obj\Debug\net5.0\ClassesExercise.AssemblyInfoInputs.cache
+C:\Users\stavr\SwinUni\Programming\ClassesExercise\obj\Debug\net5.0\ClassesExercise.AssemblyInfo.cs
+C:\Users\stavr\SwinUni\Programming\ClassesExercise\obj\Debug\net5.0\ClassesExercise.csproj.CoreCompileInputs.cache
+C:\Users\stavr\SwinUni\Programming\ClassesExercise\obj\Debug\net5.0\ClassesExercise.dll
+C:\Users\stavr\SwinUni\Programming\ClassesExercise\obj\Debug\net5.0\ref\ClassesExercise.dll
+C:\Users\stavr\SwinUni\Programming\ClassesExercise\obj\Debug\net5.0\ClassesExercise.pdb
+C:\Users\stavr\SwinUni\Programming\ClassesExercise\obj\Debug\net5.0\ClassesExercise.genruntimeconfig.cache
